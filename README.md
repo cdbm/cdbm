@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 Software Engineer @ [Cers](https://www.cers.com.br/)
 - 🌱 Currently learning Solidity/Blockchain
 - 👯 Looking to collaborate on Blockchain related projects
-- 📫 How to reach me: DM me [@_p1som](https://twitter.com/_cdbm)
+- 📫 How to reach me: DM me [@_cdbm](https://twitter.com/_cdbm)
 - 😄 Pronouns: he/him
 
 
