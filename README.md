@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Software Engineer @ [Cers](https://www.cers.com.br/)
+- 🔭 Software Engineer
 - 🌱 Currently learning Solidity/Blockchain
 - 👯 Looking to collaborate on Blockchain related projects
 - 📫 How to reach me: DM me [@_cdbm](https://twitter.com/_cdbm)
