@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 Software Engineer @ [Acqio](https://acqio.com.br/)
 - 🌱 Currently learning Rust
-- 👯 Looking to collaborate on Blockchain related projects
 - 📫 How to reach me: DM me [@_cdbm](https://twitter.com/_cdbm)
 - 😄 Pronouns: he/him
 
