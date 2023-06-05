@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Software Engineer @ [Acqio](https://acqio.com.br/)
-- 🌱 Currently learning Rust
+- 🌱 Currently learning [Full Stack Web dev](https://fullstackopen.com/en/)
 - 📫 How to reach me: DM me [@_cdbm](https://twitter.com/_cdbm)
 - 😄 Pronouns: he/him
 
