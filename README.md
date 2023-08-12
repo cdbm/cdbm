@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Software Engineer @ [Acqio](https://acqio.com.br/)
-- 🌱 Currently learning [Full Stack Web dev](https://fullstackopen.com/en/)
-- 📫 How to reach me: DM me [@_cdbm](https://twitter.com/_cdbm)
+- 🌱 Currently building [easylink](https://www.easylink.dev/home)
+- 📫 How to reach me: DM me [@_p1som](https://twitter.com/_p1som)
 - 😄 Pronouns: he/him
 
 
