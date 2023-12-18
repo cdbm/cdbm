@@ -4,9 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Software Engineer
-- 🌱 Currently building [easylink](https://www.easylink.dev/home)
-- 📫 How to reach me: DM me [@_p1som](https://twitter.com/_p1som)
+- 🔭 Software Engineer at [Liferay](https://github.com/liferay)
 - 😄 Pronouns: he/him
 
 
